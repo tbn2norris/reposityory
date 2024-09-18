@@ -10,5 +10,4 @@ My hobbies include listening to new music, gaming, and coding in my spare time.
 Coincidentally, my favorite color is blue as well...
 
 ## Project 1
-(JeDonovan) I am not allowed to create issues, I believe it has to be done by the repo owner.
-This is simply testing my ability to push changes to the new branch (branch1)
+This edit is JeDonovan simply testing my ability to push changes to the new branch (branch1).
